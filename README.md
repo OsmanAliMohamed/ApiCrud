@@ -1,7 +1,8 @@
 ApiCrudOperation For Student Management System
 
 
-Functionality
+Functionality:
+
 GetAll Students        Student/getall
 
 
